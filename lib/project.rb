@@ -14,3 +14,5 @@ class Project
       backer.backed_projects<< self
    end
 end
+
+# Developed in partnership with amyequinn: https://github.com/amyequinn

@@ -22,3 +22,5 @@ class Backer
    end
 
 end
+
+# Developed in partnership with amyequinn: https://github.com/amyequinn
